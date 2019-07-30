@@ -1,0 +1,199 @@
+@font-face {
+    font-family: 'MyriadProRegular';
+    src: url('../fonts/MyriadProRegular.eot');
+    src: url('../fonts/MyriadProRegular.eot') format('embedded-opentype'),
+    url('../fonts/MyriadProRegular.woff2') format('woff2'),
+    url('../fonts/MyriadProRegular.woff') format('woff'),
+    url('../fonts/MyriadProRegular.ttf') format('truetype'),
+    url('../fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    -webkit-font-smoothing: antialiased;
+    font-family: MyriadProRegular;
+}
+
+html {
+    height: 100%;
+}
+
+header {
+    padding-top: 25px;
+    padding-bottom: 12px;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+
+}
+
+.container:after {
+    content: "";
+    display: block;
+    clear: both;
+
+}
+
+header .logo {
+    float: left;
+}
+
+header .button {
+    line-height: 42px;
+    min-width: 171px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    background-color: #FA090A;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 2px;
+    text-transform: uppercase;
+    float: right;
+    margin-left: 25px;
+
+}
+
+header .button.gray {
+    background-color: #464646;
+}
+
+header .button.darkgray {
+    background-color: #252525;
+}
+
+header .button i {
+    margin-right: 14px;
+}
+
+header form {
+    width: 210px;
+    float: right;
+    height: 42px;
+    background-color: #ebebeb;
+    border-radius: 2px;
+
+}
+
+header form:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+header form input {
+    float: left;
+    width: 85%;
+    font-size: 15px;
+    color: #959595;
+    text-transform: uppercase;
+    line-height: 42px;
+    padding-left: 16px;
+    box-sizing: border-box;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+
+header form button {
+    border: none;
+    background-color: transparent;
+    width: 14%;
+    float: right;
+    padding-right: 12px;
+    line-height: 42px;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+}
+
+header form button i {
+    color: #fa090a;
+    font-size: 17px;
+}
+
+.container.border {
+    border-bottom: solid #464646 2px;
+    padding-bottom: 21px;
+}
+
+header nav {
+    float: left;
+
+
+}
+
+header nav ul {
+    list-style: none;
+    display: inline-block;
+    padding-top: 21px;
+
+}
+
+header nav ul li {
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 0px 7px;
+    margin-bottom: 12px;
+
+
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    padding: 0px 7px;
+    padding-bottom: 10px;
+    transition: 0.3s;
+}
+
+header nav ul li:hover a {
+    border-bottom: #FF0000 solid 2px;
+}
+
+header nav .social {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #FA090A;
+    float: right;
+    margin-left: 16px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 21px;
+    box-sizing: border-box;
+    padding-top: 4px;
+    
+
+
+}
+
+header nav .social:after {
+    content: "";
+    display: block;
+    clear: both;
+
+}
+
+header nav .social i {
+    color: black;
+    font-size: 22px;
+}
+
+
+
+
+
+
+
