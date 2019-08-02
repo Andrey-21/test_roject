@@ -210,3 +210,12 @@ img.fon{
 }
 
 
+h1 {
+    color: #FFFFFF;
+    font-size: 50px;
+    position: absolute;
+    z-index: 2;
+    text-transform: uppercase;
+    margin-top: 20px;
+    left: ;
+}
