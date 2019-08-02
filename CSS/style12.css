@@ -23,11 +23,16 @@ html {
     height: 100%;
 }
 
+body{
+    margin: 0 auto;
+}
+
 header {
     padding-top: 25px;
     padding-bottom: 12px;
     background-color: rgba(0, 0, 0, 0.65);
-
+    position: relative;
+    z-index: 1;
 
 }
 
@@ -148,18 +153,14 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     text-transform: uppercase;
-    margin: 0px 7px;
-    margin-bottom: 12px;
-
-
+    margin: 0px 7px 12px;
 }
 
 header nav ul li a {
     color: white;
     text-decoration: none;
     font-size: 21px;
-    padding: 0px 7px;
-    padding-bottom: 10px;
+    padding: 0px 7px 10px;
     transition: 0.3s;
 }
 
@@ -196,3 +197,16 @@ header nav .social i {
     color: black;
     font-size: 22px;
 }
+
+
+
+img.fon{
+    width: 100%;
+    position: relative;
+    z-index: 0;
+    top: -200px;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+
