@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b460105-5825-42f6-bc2c-d00cb57ec4a0" name="Default Changelist" comment="qwer">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/media1.css" afterDir="false" />
+    <list default="true" id="6b460105-5825-42f6-bc2c-d00cb57ec4a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style12.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style12.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style14.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style14.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index12.html" beforeDir="false" afterPath="$PROJECT_DIR$/index12.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index12.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+            <state relative-caret-position="311">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/style12.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="199" selection-start-line="199" selection-end-line="199" />
+            <state relative-caret-position="413">
+              <caret line="211" selection-start-line="211" selection-end-line="211" />
             </state>
           </provider>
         </entry>
@@ -176,7 +170,7 @@
       <workItem from="1563227239808" duration="4006000" />
       <workItem from="1563245568425" duration="3422000" />
       <workItem from="1564712350427" duration="6569000" />
-      <workItem from="1564771318255" duration="1938000" />
+      <workItem from="1564771318255" duration="2195000" />
     </task>
     <task id="LOCAL-00001" summary="qwer">
       <created>1564712421461</created>
@@ -185,11 +179,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564712421461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="header fon">
+      <created>1564773510638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564773510638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143101000" />
+    <option name="totallyTimeSpent" value="143358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -223,7 +224,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="qwer" />
-    <option name="LAST_COMMIT_MESSAGE" value="qwer" />
+    <MESSAGE value="header fon" />
+    <option name="LAST_COMMIT_MESSAGE" value="header fon" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index1.html">
@@ -825,17 +827,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/style12.css">
+    <entry file="file://$PROJECT_DIR$/index12.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        <state relative-caret-position="311">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index12.html">
+    <entry file="file://$PROJECT_DIR$/CSS/style12.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        <state relative-caret-position="413">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
         </state>
       </provider>
     </entry>
