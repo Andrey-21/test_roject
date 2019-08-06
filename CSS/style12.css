@@ -39,9 +39,6 @@ header {
 .container {
     max-width: 1170px;
     margin: 0 auto;
-    position: relative;
-
-
 }
 
 .container:after {
@@ -196,33 +193,4 @@ header nav .social:after {
 header nav .social i {
     color: black;
     font-size: 22px;
-}
-
-
-
-img.fon{
-    width: 100%;
-    position: relative;
-    z-index: 0;
-    top: -200px;
-    margin: 0px auto;
-    max-width: 100%;
-}
-
-.head_line {
-    max-width: 1170px;
-    text-align: center;
-    position: relative;
-    margin: 0px auto;
-
-}
-
-h1 {
-    color: #FFFFFF;
-    font-size: 50px;
-    position: absolute;
-    z-index: 2;
-    text-transform: uppercase;
-    margin-top: 70px;
-    padding-bottom: 35px;
 }

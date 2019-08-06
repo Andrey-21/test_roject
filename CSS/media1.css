@@ -8,25 +8,19 @@
 
 
 
-@media only screen and (max-width: 768px) {
-
-    .block_1{
-        float: right;
+@media only screen and (max-width: 1174px) {
+    form,input{
+        float: none;
+        position: relative;
+        right: 0;
+        top: 10px;
     }
 
-    .block_2{
-        float: left;
-}
-
-
-}
-
-@media only screen and (max-width: 375px){
-    .block_2{
-   width: 100%;
-    }
-
-    .block_1{
-    width: 100%;
+    .block.dark_grey{
+        float: none;
+        position: relative;
+        right: 0;
+        top: 10px;
     }
 }
+
