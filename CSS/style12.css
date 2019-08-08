@@ -194,3 +194,13 @@ header nav .social i {
     color: black;
     font-size: 22px;
 }
+
+.fonn{
+    position: relative;
+    z-index: 0;
+    top: -190px;
+}
+
+.fon{
+    width: 100%;
+}

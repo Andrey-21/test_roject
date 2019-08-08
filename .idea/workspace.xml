@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b460105-5825-42f6-bc2c-d00cb57ec4a0" name="Default Changelist" comment="header fon">
-      <change afterPath="$PROJECT_DIR$/index15.html" afterDir="false" />
+    <list default="true" id="6b460105-5825-42f6-bc2c-d00cb57ec4a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/media1.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/media1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style12.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style12.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index12.html" beforeDir="false" afterPath="$PROJECT_DIR$/index12.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/index1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -108,8 +104,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,6 +165,7 @@
       <workItem from="1564712350427" duration="6569000" />
       <workItem from="1564771318255" duration="5007000" />
       <workItem from="1564784455499" duration="13150000" />
+      <workItem from="1565063599970" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="qwer">
       <created>1564712421461</created>
@@ -205,17 +202,25 @@
       <option name="project" value="LOCAL" />
       <updated>1564776608134</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="header fon 05/08">
+      <created>1565063634461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565063634461</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159320000" />
+    <option name="totallyTimeSpent" value="159378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.502455" side_tool="true" weight="0.26096824" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.497545" weight="0.2397882" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.497545" visible="true" weight="0.2397882" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -253,8 +258,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="qwer" />
     <MESSAGE value="header fon" />
-    <option name="LAST_COMMIT_MESSAGE" value="header fon" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="header fon 05/08" />
+    <option name="LAST_COMMIT_MESSAGE" value="header fon 05/08" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index1.html">
@@ -583,9 +588,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/kkk.html" />
-    <entry file="file://$PROJECT_DIR$/tr.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tr.css" />
     <entry file="file://$PROJECT_DIR$/index12.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -614,7 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27832">
           <caret line="3668" column="43" selection-start-line="3668" selection-start-column="43" selection-end-line="3668" selection-end-column="43" />
@@ -849,13 +852,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style15.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/style15.css" />
     <entry file="file://$PROJECT_DIR$/index14.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -880,7 +877,7 @@
     <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
